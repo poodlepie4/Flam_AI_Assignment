@@ -1,1 +1,15 @@
 
+{
+    "theta_rad": 0.5235983031753397,
+    "theta_deg": 29.999972932158297,
+    "M": 0.029999996873059667,
+    "X": 54.99999821279947,
+    "t_min": 6.049405472718361,
+    "t_max": 59.99517070234954,
+    "t_mean": 32.99875538750754,
+    "L1_distance": 0.25836818747718837,
+    "n_points": 1500,
+    "optimization_success": true,
+    "optimization_message": "`xtol` termination condition is satisfied.",
+    "latex_equation": "\\left(t\\cos(0.523598303175)-e^{0.029999996873|t|}\\cdot\\sin(0.3t)\\sin(0.523598303175)+54.99999821,42+t\\sin(0.523598303175)+e^{0.029999996873|t|}\\cdot\\sin(0.3t)\\cos(0.523598303175)\\right)"
+}
