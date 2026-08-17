@@ -40,7 +40,7 @@ y = (42 + t*sin(θ) + e^(M|t|)*sin(0.3t)*cos(θ))
 
 ## Visualization (Desmos Link)
 
-[View Parametric Curve on Desmos]([https://www.desmos.com/calculator/xo64mt4mtb](https://www.desmos.com/calculator/2cirrefkcc))
+[View Parametric Curve on Desmos]([https://www.desmos.com/calculator/xo64mt4mtb](https://www.desmos.com/calculator/2cirrefkcc)
 
 ---
 
